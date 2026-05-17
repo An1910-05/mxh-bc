@@ -2673,6 +2673,3 @@ VITE_GOOGLE_CLIENT_ID=
 
 ---
 
-> **HẾT BÁO CÁO**
-
-> *Tổng số trang dự kiến sau khi xuất PDF: ~70–90 trang (tuỳ size font + ảnh chèn).*
